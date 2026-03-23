@@ -60,10 +60,14 @@
    ───────────────────────────────────────────── */
 
 /* Task 6: Write a CLASS rule called "highlight" */
-
+.highlight{
+   color: yellow;
+}
 
 /* Task 7: Write a CLASS rule called "list-style" */
-
+.list-style{
+   list-style: armenian;
+}
 
 /* Task 8: Write an ID rule called "page-heading" */
 
